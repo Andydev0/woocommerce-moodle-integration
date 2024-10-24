@@ -7,7 +7,8 @@
 **Autor**: Anderson Dev
 
 ## Descrição
-Este plugin integra o WooCommerce com o Moodle, criando usuários e matriculando-os em cursos automaticamente após uma compra. É a solução ideal para cursos online que usam o Moodle como plataforma de ensino.
+Este plugin integra o WooCommerce com o Moodle, criando usuários e matriculando-os em cursos automaticamente após uma compra.
+É a solução ideal para cursos online que usam o Moodle como plataforma de ensino.
 
 ### Funcionalidades
 - Criação automática de usuários no Moodle após uma compra no WooCommerce.
