@@ -1,7 +1,7 @@
+![WooCommerce Moodle Integration](https://img.shields.io/badge/WooCommerce-Moodle%20Integration-blue)
+
 ```markdown
 # WooCommerce Moodle Integration
-
-![WooCommerce Moodle Integration](https://img.shields.io/badge/WooCommerce-Moodle%20Integration-blue)
 
 **Versão**: 1.1  
 **Autor**: Anderson Dev
